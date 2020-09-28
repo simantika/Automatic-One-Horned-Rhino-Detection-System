@@ -30,3 +30,7 @@ Image: --source file.jpg
 Video: --source file.mp4
 Directory: --source dir/
 Webcam: --source 0
+
+# Credit
+
+If you use this code, please cite us.
