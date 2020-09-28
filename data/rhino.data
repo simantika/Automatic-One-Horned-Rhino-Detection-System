@@ -1,0 +1,4 @@
+classes=2
+train=data/rhino_train.txt
+valid=data/rhino_val.txt
+names=data/rhino.names
