@@ -33,4 +33,15 @@ Webcam: --source 0
 
 # Credit
 
-If you use this code, please cite us.
+If you use this code, please cite us
+
+@article{onehornedrhino,
+ title={Detection of One-horned Rhino from Green Environment Background using Deep Learning},
+ author={Simantika Choudhury, Nishant Bharti, Navajit Saikia, Subhash Chandra Rajbongshi},
+ journal={Journal of Green Engineering},
+ volume={10},
+ number={9},
+ pages={4657-4678},
+ month={September},
+ year={2020},
+}
